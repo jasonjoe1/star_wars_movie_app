@@ -1,0 +1,16 @@
+{
+  "name": "star_wars_movie_app",
+  "version": "1.0.0",
+  "description": "A basic movie app for Star Wars fans",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jason Ogaga",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.5.7",
+    "express": "^4.15.4",
+    "nodemon": "^1.12.0"
+  }
+}
